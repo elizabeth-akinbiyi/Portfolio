@@ -1,0 +1,90 @@
+body   {
+        background-color: white;
+       }
+
+
+img    {
+        width: 235px;
+        height: 240px;
+        border-radius: 50%;
+        margin: auto;
+        display: block;
+       }
+
+
+#liz   { 
+        color: rgb(150, 14, 150);
+        font-family: montserrat;
+        font-weight: bolder;
+       }
+
+
+p      {
+        color: rgb(150, 14, 150);
+        font-family: verdana;
+        text-align: center;
+        line-height: 30px;
+       }
+
+
+.click {
+        display: inline-block;
+        padding: 12px 20px;
+        font-size: 18px;
+        cursor: pointer;
+        text-align: right;
+        color: white;
+        background-color: rgb(150, 14, 150);
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        font-weight: bold;
+       }
+
+
+.click:hover  {background-color: rgba(128, 128, 128, 0.568);}
+
+
+.click:active {
+               background-color: black;
+               box-shadow: 0 5px #666;
+               transform: translateY(4px);
+              }
+
+
+#body  {background-color: white;}
+
+
+.h2s   {
+        color: rgb(150, 14, 150);
+        text-align: center;
+        font-family: montserrat medium;
+       }
+
+
+.list  {
+        color: rgb(150, 14, 150);
+        font-family: times;
+       }    
+  
+      
+hr     {  
+        border-style: none;
+        border-top-style: dotted;
+        width: 7%;
+        border-width: 2px;
+        border-color: rgb(150, 14, 150);
+       }
+
+
+.tds   {
+        color: rgb(150, 14, 150);
+        font-family: times;
+       }
+
+
+#comb  {
+        font-family: montserrat medium;
+        color: rgb(150, 14, 150);
+       }
+        
